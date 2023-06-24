@@ -25,7 +25,7 @@ const Navbar: React.FC = () => {
             <li className='relative'>
               <button onClick={toggleDropdown}
               className='text-white cursor-auto'> 
-              dnsdfn
+              Contact Us
               </button>
               {isDropdownOpen && (
                 <div className="absolute mt-2 bg-white py-2 px-4 shadow rounded">
