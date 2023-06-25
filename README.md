@@ -1,6 +1,6 @@
 # FNT Teky Knickals
 
--his is the Friendly Neighbourhood Tekys' GDSC Technoverse project. 
+-This is the Friendly Neighbourhood Tekys' GDSC Technoverse project. 
 
 ## Features
 
